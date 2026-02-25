@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sleak-property-servi-0f891.pages.dev/sitemap.xml
