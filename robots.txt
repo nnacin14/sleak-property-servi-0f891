@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://nnacin14.github.io/sleak-property-servi-0f891/sitemap.xml
+Sitemap: https://sleak-property-servi-0f891.pages.dev/sitemap.xml
